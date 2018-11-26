@@ -123,4 +123,4 @@ bot.on("message", async message => {
 
 
 
-client.login(process.env.NTE2NTQ2MzQ0MzY2NjM3MDc4.Dt1O3Q._c3ulbfBCUBjaWpWTOzFJvXqC_s);//where BOT_TOKEN is the token of our bot package.json
+client.login(process.env.NTE2NTQ2MzQ0MzY2NjM3MDc4.Dt2L_w.Bg38OPbRzk5hZOHhYBXhjaUQm7M);//where BOT_TOKEN is the token of our bot package.json
